@@ -1,0 +1,142 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: url(image/web.jpg);
+   
+}
+
+header {
+   
+    text-align: center;
+    width: 20%;
+    float:left;
+    padding: 10px;
+    border: 6px;
+    width: 250px;
+    height: 350px;
+}
+
+h1{
+
+}
+
+.header_image{ 
+  
+    
+    width: 120px;
+    height: 130px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin-top:10px;
+
+}
+
+.header_title{
+    text-align: center;
+    color:whitesmoke;
+}
+.header_subtitle{
+    text-align: center;
+    color:whitesmoke;
+}
+
+.section_about_me{
+    width: 60%;
+    float: left;
+    right:10px;
+    padding-top:10px;
+  text-align: center;
+  border: 6px;
+  color:whitesmoke;
+}
+
+
+
+footer {
+    background-color: blueviolet;
+    text-align: center;
+    display: block;
+    clear:both;
+    padding: 10px;
+    margin-top: auto;
+    color:whitesmoke;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.header_about_me{
+margin: 0;
+    padding: 0;
+}
+
+.project1{
+    width: 33%;
+    float: left;
+    margin-bottom: 0px;
+    color:whitesmoke;
+   
+}
+
+.project2{
+    width: 33%;
+    float: left;
+    color:whitesmoke;
+
+
+}
+
+.project3{
+    width: 33%;
+    float: left;
+    margin-bottom: 0px;
+    color:whitesmoke;
+   
+}
+
+.project1_image{
+    width: 150px;
+    height: 100%;
+    border-radius: 50%;
+
+
+}
+
+.project2_image{
+
+    width: 150px;
+    height: 100%;
+    border-radius: 50%;
+
+
+}
+
+.project3_image{
+   
+    width: 150px;
+    height: 100%;
+    border-radius: 50%;
+ 
+
+}
+
+
+
+.my_skills{
+    margin:0;
+    float: right;
+    width: 20%;
+}
+
+.my_skills_title{
+    color:whitesmoke;
+    text-align: center;
+}
+
+.my_skills_subtitle{
+    color:whitesmoke;
+}
+
+.my_projects{
+    color:whitesmoke;
+}
